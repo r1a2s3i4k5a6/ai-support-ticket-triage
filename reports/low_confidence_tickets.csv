@@ -1,0 +1,24 @@
+ticket_id,text,category,predicted_category,confidence
+T2595,it is not working please help,product,billing,0.267
+T2618,"same issue as last time, please check",product,product,0.393
+T2518,"same issue as last time, please check",product,product,0.393
+T2605,it is not working please help,technical,billing,0.267
+T2616,"nothing works, please fix",technical,product,0.307
+T2530,can someone call me back about this,product,billing,0.379
+T2642,it is not working please help,product,billing,0.267
+T2501,it is not working please help,billing,billing,0.267
+T2573,it is not working please help,billing,billing,0.267
+T2630,"nothing works, please fix",technical,product,0.307
+T2586,can someone call me back about this,account,billing,0.379
+T2577,"same issue as last time, please check",billing,product,0.393
+T2628,"same issue as last time, please check",billing,product,0.393
+T2503,"same issue as last time, please check",product,product,0.393
+T2536,"nothing works, please fix",billing,product,0.307
+T2600,it is not working please help,billing,billing,0.267
+T2559,can someone call me back about this,billing,billing,0.379
+T2629,it is not working please help,account,billing,0.267
+T2550,it is not working please help,technical,billing,0.267
+T2594,"nothing works, please fix",technical,product,0.307
+T2583,"same issue as last time, please check",account,product,0.393
+T2639,can someone call me back about this,technical,billing,0.379
+T2599,"nothing works, please fix",technical,product,0.307

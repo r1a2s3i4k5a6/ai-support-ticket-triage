@@ -1,0 +1,45 @@
+Dataset size: 1650 tickets (1320 train / 330 test)
+
+============================================================
+CATEGORY MODEL
+============================================================
+Accuracy: 0.952
+              precision    recall  f1-score   support
+
+     account      1.000     0.959     0.979        74
+     billing      0.914     0.966     0.939        88
+     product      0.916     0.967     0.941        90
+   technical      1.000     0.910     0.953        78
+
+    accuracy                          0.952       330
+   macro avg      0.957     0.951     0.953       330
+weighted avg      0.954     0.952     0.952       330
+
+Confusion matrix (rows = true, cols = predicted):
+           account  billing  product  technical
+account         71        2        1          0
+billing          0       85        3          0
+product          0        3       87          0
+technical        0        3        4         71
+
+============================================================
+URGENCY MODEL
+============================================================
+Accuracy: 0.939
+              precision    recall  f1-score   support
+
+        high      0.959     0.913     0.935       103
+         low      0.958     0.934     0.946       121
+      medium      0.904     0.972     0.936       106
+
+    accuracy                          0.939       330
+   macro avg      0.940     0.939     0.939       330
+weighted avg      0.941     0.939     0.939       330
+
+Confusion matrix (rows = true, cols = predicted):
+        high  low  medium
+high      94    2       7
+low        4  113       4
+medium     0    3     103
+
+23 of 330 test tickets fell below the 0.6 confidence threshold and were routed to manual review instead of being auto-assigned.
