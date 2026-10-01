@@ -1,0 +1,1651 @@
+ticket_id,text,category,urgency
+T1000,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1001,URGENT: The app crashes every time I open reports,technical,high
+T1002,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1003,URGENT: Refund for my last order has not arrived,billing,high
+T1004,"No rush, but Please explain this extra charge on my bill",billing,low
+T1005,The dashboard has been loading forever,technical,medium
+T1006,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T1007,"Hi team, My account got locked after failed attempts",account,medium
+T1008,URGENT: I need to add a team member to my account,account,high
+T1009,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1010,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1011,Please escalate immediately. What is the storage limit on my plan,product,high
+T1012,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1013,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1014,URGENT: Please explain this extra charge on my bill,billing,high
+T1015,Please change the email on my profile,account,medium
+T1016,"Following up, Getting an error when uploading a file",technical,medium
+T1017,"No rush, but My account got locked after failed attempts",account,low
+T1018,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T1019,"No rush, but Please change the email on my profile",account,low
+T1020,URGENT: My subscription payment failed but money was deducted,billing,high
+T1021,"Hi team, Can this integrate with our CRM tool",product,medium
+T1022,Please escalate immediately. I need to add a team member to my account,account,high
+T1023,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T1024,URGENT: Please change the email on my profile,account,high
+T1025,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1026,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1027,URGENT: Refund for my last order has not arrived,billing,high
+T1028,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1029,Requesting a dark mode option,product,medium
+T1030,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1031,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1032,"Hi team, I need to add a team member to my account",account,medium
+T1033,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1034,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1035,"Hi team, The app crashes every time I open reports",technical,medium
+T1036,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T1037,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T1038,"No rush, but The app crashes every time I open reports",technical,low
+T1039,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1040,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1041,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1042,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1043,I need to add a team member to my account,account,medium
+T1044,URGENT: I was charged twice for the same invoice,billing,high
+T1045,Please escalate immediately. My account got locked after failed attempts,account,high
+T1046,URGENT: The app crashes every time I open reports,technical,high
+T1047,URGENT: The dashboard has been loading forever,technical,high
+T1048,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1049,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1050,This is blocking our work. Requesting a dark mode option,product,high
+T1051,URGENT: Data sync stopped working since yesterday,technical,high
+T1052,"Following up, I need to add a team member to my account",account,medium
+T1053,"No rush, but I was charged twice for the same invoice",billing,low
+T1054,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1055,URGENT: Data sync stopped working since yesterday,technical,high
+T1056,"Hi team, The dashboard has been loading forever",technical,medium
+T1057,URGENT: Requesting a dark mode option,product,high
+T1058,Please escalate immediately. I was charged twice for the same invoice,billing,high
+T1059,URGENT: Please explain this extra charge on my bill,billing,high
+T1060,"Hi team, Requesting a dark mode option",product,medium
+T1061,This is blocking our work. I was charged twice for the same invoice,billing,high
+T1062,"Following up, What is the storage limit on my plan",product,medium
+T1063,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T1064,"Hi team, The app crashes every time I open reports",technical,medium
+T1065,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1066,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1067,"No rush, but Refund for my last order has not arrived",billing,low
+T1068,"No rush, but Refund for my last order has not arrived",billing,low
+T1069,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1070,"No rush, but Please explain this extra charge on my bill",billing,low
+T1071,"Hi team, Please change the email on my profile",account,medium
+T1072,"Following up, Getting an error when uploading a file",technical,medium
+T1073,"Following up, I cannot log in, password reset email never arrives",account,medium
+T1074,I was charged twice for the same invoice,billing,medium
+T1075,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1076,"Hi team, Getting an error when uploading a file",technical,medium
+T1077,"Hi team, I need to add a team member to my account",account,medium
+T1078,"No rush, but Please change the email on my profile",account,low
+T1079,This is blocking our work. I was charged twice for the same invoice,billing,high
+T1080,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1081,"No rush, but Please change the email on my profile",account,low
+T1082,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1083,URGENT: I need to add a team member to my account,account,high
+T1084,URGENT: Please change the email on my profile,account,high
+T1085,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1086,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1087,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T1088,Refund for my last order has not arrived,billing,medium
+T1089,URGENT: What is the storage limit on my plan,product,high
+T1090,This is blocking our work. My account got locked after failed attempts,account,high
+T1091,"No rush, but The dashboard has been loading forever",technical,low
+T1092,"No rush, but Can this integrate with our CRM tool",product,low
+T1093,This is blocking our work. The app crashes every time I open reports,technical,high
+T1094,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1095,"Hi team, The app crashes every time I open reports",technical,medium
+T1096,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1097,"Following up, The dashboard has been loading forever",technical,medium
+T1098,URGENT: Getting an error when uploading a file,technical,high
+T1099,"Following up, Does the plan include custom reports",product,medium
+T1100,I need to add a team member to my account,account,medium
+T1101,URGENT: Please change the email on my profile,account,high
+T1102,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1103,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1104,"I cannot log in, password reset email never arrives",account,medium
+T1105,"No rush, but What is the storage limit on my plan",product,low
+T1106,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1107,"Following up, The app crashes every time I open reports",technical,medium
+T1108,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1109,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1110,Please change the email on my profile,account,medium
+T1111,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T1112,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1113,"Following up, Refund for my last order has not arrived",billing,medium
+T1114,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1115,Can this integrate with our CRM tool,product,medium
+T1116,"No rush, but Does the plan include custom reports",product,low
+T1117,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1118,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1119,URGENT: The app crashes every time I open reports,technical,high
+T1120,The app crashes every time I open reports,technical,medium
+T1121,Can this integrate with our CRM tool,product,medium
+T1122,"Following up, Can this integrate with our CRM tool",product,medium
+T1123,"No rush, but The app crashes every time I open reports",technical,low
+T1124,URGENT: Requesting a dark mode option,product,high
+T1125,"No rush, but I was charged twice for the same invoice",billing,low
+T1126,This is blocking our work. What is the storage limit on my plan,product,high
+T1127,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1128,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1129,Please escalate immediately. Please change the email on my profile,account,high
+T1130,"No rush, but What is the storage limit on my plan",product,low
+T1131,Please escalate immediately. What is the storage limit on my plan,product,high
+T1132,"Following up, The dashboard has been loading forever",technical,medium
+T1133,URGENT: Refund for my last order has not arrived,billing,high
+T1134,"No rush, but Can this integrate with our CRM tool",product,low
+T1135,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1136,"Hi team, Can this integrate with our CRM tool",product,medium
+T1137,Does the plan include custom reports,product,medium
+T1138,"Hi team, What is the storage limit on my plan",product,medium
+T1139,"Following up, My account got locked after failed attempts",account,medium
+T1140,This is blocking our work. Requesting a dark mode option,product,high
+T1141,This is blocking our work. What is the storage limit on my plan,product,high
+T1142,"No rush, but Requesting a dark mode option",product,low
+T1143,"No rush, but Data sync stopped working since yesterday",technical,low
+T1144,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T1145,"Hi team, The app crashes every time I open reports",technical,medium
+T1146,"Following up, My account got locked after failed attempts",account,medium
+T1147,"Following up, Requesting a dark mode option",product,medium
+T1148,"Following up, I cannot log in, password reset email never arrives",account,medium
+T1149,Please escalate immediately. Does the plan include custom reports,product,high
+T1150,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T1151,URGENT: Refund for my last order has not arrived,billing,high
+T1152,"No rush, but Refund for my last order has not arrived",billing,low
+T1153,The app crashes every time I open reports,technical,medium
+T1154,The dashboard has been loading forever,technical,medium
+T1155,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T1156,"Hi team, The app crashes every time I open reports",technical,medium
+T1157,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1158,Please escalate immediately. Getting an error when uploading a file,technical,high
+T1159,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1160,Please explain this extra charge on my bill,billing,medium
+T1161,Please escalate immediately. Please change the email on my profile,account,high
+T1162,"Following up, I was charged twice for the same invoice",billing,medium
+T1163,Requesting a dark mode option,product,medium
+T1164,"Hi team, The dashboard has been loading forever",technical,medium
+T1165,"Following up, What is the storage limit on my plan",product,medium
+T1166,URGENT: Please change the email on my profile,account,high
+T1167,This is blocking our work. Requesting a dark mode option,product,high
+T1168,This is blocking our work. Please change the email on my profile,account,high
+T1169,"Hi team, The dashboard has been loading forever",technical,medium
+T1170,"Following up, Please change the email on my profile",account,medium
+T1171,"No rush, but I was charged twice for the same invoice",billing,low
+T1172,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1173,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1174,URGENT: What is the storage limit on my plan,product,high
+T1175,Getting an error when uploading a file,technical,medium
+T1176,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1177,Please change the email on my profile,account,medium
+T1178,"Whenever you get a chance, Please change the email on my profile",account,low
+T1179,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T1180,"Hi team, Getting an error when uploading a file",technical,medium
+T1181,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1182,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1183,"Hi team, The dashboard has been loading forever",technical,medium
+T1184,"Hi team, Getting an error when uploading a file",technical,medium
+T1185,URGENT: Please change the email on my profile,account,high
+T1186,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1187,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T1188,"Following up, Can this integrate with our CRM tool",product,medium
+T1189,"Following up, I was charged twice for the same invoice",billing,medium
+T1190,"Following up, I was charged twice for the same invoice",billing,medium
+T1191,URGENT: My subscription payment failed but money was deducted,billing,high
+T1192,URGENT: Please explain this extra charge on my bill,billing,high
+T1193,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1194,Requesting a dark mode option,product,medium
+T1195,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1196,"No rush, but The dashboard has been loading forever",technical,low
+T1197,URGENT: Refund for my last order has not arrived,billing,high
+T1198,URGENT: Please explain this extra charge on my bill,billing,high
+T1199,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1200,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1201,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1202,"No rush, but I need to add a team member to my account",account,low
+T1203,"No rush, but Refund for my last order has not arrived",billing,low
+T1204,"URGENT: I cannot log in, password reset email never arrives",account,high
+T1205,The dashboard has been loading forever,technical,medium
+T1206,This is blocking our work. What is the storage limit on my plan,product,high
+T1207,Requesting a dark mode option,product,medium
+T1208,Please escalate immediately. Does the plan include custom reports,product,high
+T1209,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1210,URGENT: I was charged twice for the same invoice,billing,high
+T1211,"No rush, but My account got locked after failed attempts",account,low
+T1212,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1213,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1214,"Following up, Please explain this extra charge on my bill",billing,medium
+T1215,"I cannot log in, password reset email never arrives",account,medium
+T1216,"Following up, Data sync stopped working since yesterday",technical,medium
+T1217,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1218,This is blocking our work. What is the storage limit on my plan,product,high
+T1219,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1220,"Hi team, Can this integrate with our CRM tool",product,medium
+T1221,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1222,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1223,I need to add a team member to my account,account,medium
+T1224,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T1225,The app crashes every time I open reports,technical,medium
+T1226,URGENT: Does the plan include custom reports,product,high
+T1227,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1228,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1229,"Following up, Can this integrate with our CRM tool",product,medium
+T1230,"No rush, but Requesting a dark mode option",product,low
+T1231,"No rush, but The app crashes every time I open reports",technical,low
+T1232,"Following up, Please change the email on my profile",account,medium
+T1233,My subscription payment failed but money was deducted,billing,medium
+T1234,This is blocking our work. Requesting a dark mode option,product,high
+T1235,I need to add a team member to my account,account,medium
+T1236,"Hi team, Can this integrate with our CRM tool",product,medium
+T1237,This is blocking our work. Does the plan include custom reports,product,high
+T1238,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1239,"No rush, but Requesting a dark mode option",product,low
+T1240,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1241,"Hi team, Please explain this extra charge on my bill",billing,medium
+T1242,"No rush, but Please explain this extra charge on my bill",billing,low
+T1243,This is blocking our work. The dashboard has been loading forever,technical,high
+T1244,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1245,"Whenever you get a chance, Please change the email on my profile",account,low
+T1246,"No rush, but Does the plan include custom reports",product,low
+T1247,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1248,"Hi team, I was charged twice for the same invoice",billing,medium
+T1249,Please escalate immediately. What is the storage limit on my plan,product,high
+T1250,This is blocking our work. I was charged twice for the same invoice,billing,high
+T1251,"Following up, I need to add a team member to my account",account,medium
+T1252,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1253,URGENT: The app crashes every time I open reports,technical,high
+T1254,"No rush, but Requesting a dark mode option",product,low
+T1255,This is blocking our work. The dashboard has been loading forever,technical,high
+T1256,Does the plan include custom reports,product,medium
+T1257,Can this integrate with our CRM tool,product,medium
+T1258,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1259,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1260,This is blocking our work. I need to add a team member to my account,account,high
+T1261,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1262,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1263,"Hi team, Does the plan include custom reports",product,medium
+T1264,"Hi team, What is the storage limit on my plan",product,medium
+T1265,"No rush, but The dashboard has been loading forever",technical,low
+T1266,"No rush, but The app crashes every time I open reports",technical,low
+T1267,"Hi team, Please change the email on my profile",account,medium
+T1268,This is blocking our work. The dashboard has been loading forever,technical,high
+T1269,URGENT: Can this integrate with our CRM tool,product,high
+T1270,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1271,"Following up, Please change the email on my profile",account,medium
+T1272,"Hi team, Refund for my last order has not arrived",billing,medium
+T1273,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1274,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T1275,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1276,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1277,"Hi team, The dashboard has been loading forever",technical,medium
+T1278,"No rush, but Data sync stopped working since yesterday",technical,low
+T1279,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1280,URGENT: The dashboard has been loading forever,technical,high
+T1281,URGENT: Can this integrate with our CRM tool,product,high
+T1282,"Following up, The dashboard has been loading forever",technical,medium
+T1283,"No rush, but Requesting a dark mode option",product,low
+T1284,Please explain this extra charge on my bill,billing,medium
+T1285,Please escalate immediately. Please change the email on my profile,account,high
+T1286,"Following up, Getting an error when uploading a file",technical,medium
+T1287,Please escalate immediately. Please change the email on my profile,account,high
+T1288,This is blocking our work. Please change the email on my profile,account,high
+T1289,This is blocking our work. The app crashes every time I open reports,technical,high
+T1290,"No rush, but The app crashes every time I open reports",technical,low
+T1291,URGENT: My account got locked after failed attempts,account,high
+T1292,"No rush, but Refund for my last order has not arrived",billing,low
+T1293,"Hi team, The app crashes every time I open reports",technical,medium
+T1294,URGENT: Please change the email on my profile,account,high
+T1295,Please escalate immediately. The app crashes every time I open reports,technical,high
+T1296,This is blocking our work. Getting an error when uploading a file,technical,high
+T1297,URGENT: Please change the email on my profile,account,high
+T1298,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T1299,"No rush, but Please explain this extra charge on my bill",billing,low
+T1300,Does the plan include custom reports,product,medium
+T1301,"No rush, but Does the plan include custom reports",product,low
+T1302,"I cannot log in, password reset email never arrives",account,medium
+T1303,"Following up, Please explain this extra charge on my bill",billing,medium
+T1304,Please explain this extra charge on my bill,billing,medium
+T1305,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1306,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1307,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1308,Please escalate immediately. Does the plan include custom reports,product,high
+T1309,"Following up, Getting an error when uploading a file",technical,medium
+T1310,"Following up, Requesting a dark mode option",product,medium
+T1311,"No rush, but What is the storage limit on my plan",product,low
+T1312,What is the storage limit on my plan,product,medium
+T1313,Please escalate immediately. I need to add a team member to my account,account,high
+T1314,URGENT: I was charged twice for the same invoice,billing,high
+T1315,Please escalate immediately. What is the storage limit on my plan,product,high
+T1316,"No rush, but The dashboard has been loading forever",technical,low
+T1317,"Following up, Please explain this extra charge on my bill",billing,medium
+T1318,My subscription payment failed but money was deducted,billing,medium
+T1319,Please escalate immediately. My account got locked after failed attempts,account,high
+T1320,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1321,My subscription payment failed but money was deducted,billing,medium
+T1322,Refund for my last order has not arrived,billing,medium
+T1323,"No rush, but What is the storage limit on my plan",product,low
+T1324,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1325,"Hi team, My account got locked after failed attempts",account,medium
+T1326,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1327,"No rush, but The app crashes every time I open reports",technical,low
+T1328,"Following up, Data sync stopped working since yesterday",technical,medium
+T1329,This is blocking our work. Please change the email on my profile,account,high
+T1330,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1331,Please escalate immediately. The app crashes every time I open reports,technical,high
+T1332,"Following up, Please explain this extra charge on my bill",billing,medium
+T1333,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1334,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T1335,"Hi team, Please change the email on my profile",account,medium
+T1336,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1337,The app crashes every time I open reports,technical,medium
+T1338,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1339,"Following up, The dashboard has been loading forever",technical,medium
+T1340,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1341,This is blocking our work. Getting an error when uploading a file,technical,high
+T1342,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1343,This is blocking our work. Does the plan include custom reports,product,high
+T1344,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1345,"Hi team, Requesting a dark mode option",product,medium
+T1346,"Hi team, Please explain this extra charge on my bill",billing,medium
+T1347,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1348,Data sync stopped working since yesterday,technical,medium
+T1349,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1350,"Hi team, The app crashes every time I open reports",technical,medium
+T1351,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1352,"No rush, but My account got locked after failed attempts",account,low
+T1353,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1354,"No rush, but The app crashes every time I open reports",technical,low
+T1355,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1356,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1357,"Hi team, Data sync stopped working since yesterday",technical,medium
+T1358,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1359,I was charged twice for the same invoice,billing,medium
+T1360,"Following up, I cannot log in, password reset email never arrives",account,medium
+T1361,"Following up, I was charged twice for the same invoice",billing,medium
+T1362,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T1363,Refund for my last order has not arrived,billing,medium
+T1364,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1365,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T1366,"No rush, but I was charged twice for the same invoice",billing,low
+T1367,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1368,"Following up, The dashboard has been loading forever",technical,medium
+T1369,"Following up, Does the plan include custom reports",product,medium
+T1370,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1371,"Following up, Can this integrate with our CRM tool",product,medium
+T1372,Please escalate immediately. My account got locked after failed attempts,account,high
+T1373,I need to add a team member to my account,account,medium
+T1374,"No rush, but The dashboard has been loading forever",technical,low
+T1375,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T1376,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1377,"Following up, Refund for my last order has not arrived",billing,medium
+T1378,"Following up, Getting an error when uploading a file",technical,medium
+T1379,URGENT: The app crashes every time I open reports,technical,high
+T1380,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T1381,"No rush, but I need to add a team member to my account",account,low
+T1382,URGENT: Getting an error when uploading a file,technical,high
+T1383,This is blocking our work. What is the storage limit on my plan,product,high
+T1384,The dashboard has been loading forever,technical,medium
+T1385,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1386,"Hi team, Please change the email on my profile",account,medium
+T1387,"Following up, Requesting a dark mode option",product,medium
+T1388,URGENT: Can this integrate with our CRM tool,product,high
+T1389,Please escalate immediately. I need to add a team member to my account,account,high
+T1390,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1391,URGENT: Please change the email on my profile,account,high
+T1392,"No rush, but Requesting a dark mode option",product,low
+T1393,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1394,"Hi team, Please explain this extra charge on my bill",billing,medium
+T1395,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1396,URGENT: Please change the email on my profile,account,high
+T1397,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1398,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T1399,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1400,URGENT: My subscription payment failed but money was deducted,billing,high
+T1401,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1402,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T1403,URGENT: Please explain this extra charge on my bill,billing,high
+T1404,URGENT: Requesting a dark mode option,product,high
+T1405,"No rush, but Refund for my last order has not arrived",billing,low
+T1406,"Hi team, Please change the email on my profile",account,medium
+T1407,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1408,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1409,"Following up, I was charged twice for the same invoice",billing,medium
+T1410,"Following up, Does the plan include custom reports",product,medium
+T1411,This is blocking our work. My account got locked after failed attempts,account,high
+T1412,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1413,My subscription payment failed but money was deducted,billing,medium
+T1414,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1415,URGENT: Data sync stopped working since yesterday,technical,high
+T1416,"Hi team, I was charged twice for the same invoice",billing,medium
+T1417,This is blocking our work. The dashboard has been loading forever,technical,high
+T1418,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1419,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1420,Please escalate immediately. Please change the email on my profile,account,high
+T1421,This is blocking our work. I need to add a team member to my account,account,high
+T1422,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1423,This is blocking our work. I need to add a team member to my account,account,high
+T1424,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1425,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1426,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T1427,"Whenever you get a chance, Please change the email on my profile",account,low
+T1428,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T1429,"Following up, Does the plan include custom reports",product,medium
+T1430,"Whenever you get a chance, Please change the email on my profile",account,low
+T1431,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T1432,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1433,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1434,URGENT: The dashboard has been loading forever,technical,high
+T1435,"I cannot log in, password reset email never arrives",account,medium
+T1436,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1437,"Hi team, My account got locked after failed attempts",account,medium
+T1438,"Following up, Please change the email on my profile",account,medium
+T1439,URGENT: Getting an error when uploading a file,technical,high
+T1440,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1441,I need to add a team member to my account,account,medium
+T1442,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1443,URGENT: The app crashes every time I open reports,technical,high
+T1444,Please escalate immediately. Requesting a dark mode option,product,high
+T1445,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1446,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1447,"No rush, but The dashboard has been loading forever",technical,low
+T1448,URGENT: Getting an error when uploading a file,technical,high
+T1449,"Hi team, The dashboard has been loading forever",technical,medium
+T1450,My account got locked after failed attempts,account,medium
+T1451,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1452,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1453,This is blocking our work. I was charged twice for the same invoice,billing,high
+T1454,What is the storage limit on my plan,product,medium
+T1455,"No rush, but Getting an error when uploading a file",technical,low
+T1456,"No rush, but Does the plan include custom reports",product,low
+T1457,"Hi team, Getting an error when uploading a file",technical,medium
+T1458,"No rush, but Please change the email on my profile",account,low
+T1459,This is blocking our work. My account got locked after failed attempts,account,high
+T1460,Please escalate immediately. Please change the email on my profile,account,high
+T1461,"No rush, but Refund for my last order has not arrived",billing,low
+T1462,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1463,URGENT: My subscription payment failed but money was deducted,billing,high
+T1464,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1465,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1466,Please escalate immediately. Requesting a dark mode option,product,high
+T1467,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T1468,"Following up, Data sync stopped working since yesterday",technical,medium
+T1469,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1470,"Whenever you get a chance, Please change the email on my profile",account,low
+T1471,This is blocking our work. Does the plan include custom reports,product,high
+T1472,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1473,"Hi team, My account got locked after failed attempts",account,medium
+T1474,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1475,URGENT: What is the storage limit on my plan,product,high
+T1476,URGENT: I need to add a team member to my account,account,high
+T1477,"Following up, Requesting a dark mode option",product,medium
+T1478,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1479,Please escalate immediately. The dashboard has been loading forever,technical,high
+T1480,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1481,Does the plan include custom reports,product,medium
+T1482,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T1483,"Following up, I cannot log in, password reset email never arrives",account,medium
+T1484,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1485,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1486,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1487,URGENT: Please explain this extra charge on my bill,billing,high
+T1488,Please change the email on my profile,account,medium
+T1489,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1490,URGENT: Refund for my last order has not arrived,billing,high
+T1491,I need to add a team member to my account,account,medium
+T1492,"No rush, but The dashboard has been loading forever",technical,low
+T1493,This is blocking our work. Please change the email on my profile,account,high
+T1494,"Whenever you get a chance, Please change the email on my profile",account,low
+T1495,This is blocking our work. What is the storage limit on my plan,product,high
+T1496,My subscription payment failed but money was deducted,billing,medium
+T1497,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1498,"No rush, but Data sync stopped working since yesterday",technical,low
+T1499,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1500,Please escalate immediately. The app crashes every time I open reports,technical,high
+T1501,This is blocking our work. The dashboard has been loading forever,technical,high
+T1502,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1503,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1504,"No rush, but The dashboard has been loading forever",technical,low
+T1505,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1506,The dashboard has been loading forever,technical,medium
+T1507,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1508,This is blocking our work. The dashboard has been loading forever,technical,high
+T1509,"Following up, Getting an error when uploading a file",technical,medium
+T1510,"Following up, What is the storage limit on my plan",product,medium
+T1511,"Hi team, I need to add a team member to my account",account,medium
+T1512,"Hi team, What is the storage limit on my plan",product,medium
+T1513,I was charged twice for the same invoice,billing,medium
+T1514,Please change the email on my profile,account,medium
+T1515,URGENT: What is the storage limit on my plan,product,high
+T1516,URGENT: My account got locked after failed attempts,account,high
+T1517,Please escalate immediately. Getting an error when uploading a file,technical,high
+T1518,URGENT: Data sync stopped working since yesterday,technical,high
+T1519,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1520,Please escalate immediately. Getting an error when uploading a file,technical,high
+T1521,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1522,"Following up, The dashboard has been loading forever",technical,medium
+T1523,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T1524,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1525,"Following up, Refund for my last order has not arrived",billing,medium
+T1526,URGENT: Please change the email on my profile,account,high
+T1527,"Following up, Please explain this extra charge on my bill",billing,medium
+T1528,Please escalate immediately. Requesting a dark mode option,product,high
+T1529,URGENT: Please change the email on my profile,account,high
+T1530,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1531,Please escalate immediately. The dashboard has been loading forever,technical,high
+T1532,"No rush, but My account got locked after failed attempts",account,low
+T1533,What is the storage limit on my plan,product,medium
+T1534,I was charged twice for the same invoice,billing,medium
+T1535,This is blocking our work. The dashboard has been loading forever,technical,high
+T1536,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T1537,"Following up, The dashboard has been loading forever",technical,medium
+T1538,"No rush, but Please change the email on my profile",account,low
+T1539,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1540,"Following up, Refund for my last order has not arrived",billing,medium
+T1541,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1542,My account got locked after failed attempts,account,medium
+T1543,This is blocking our work. Getting an error when uploading a file,technical,high
+T1544,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1545,"No rush, but Can this integrate with our CRM tool",product,low
+T1546,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1547,"No rush, but I was charged twice for the same invoice",billing,low
+T1548,"No rush, but Getting an error when uploading a file",technical,low
+T1549,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1550,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T1551,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1552,Does the plan include custom reports,product,medium
+T1553,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1554,"Hi team, Can this integrate with our CRM tool",product,medium
+T1555,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1556,"No rush, but I was charged twice for the same invoice",billing,low
+T1557,This is blocking our work. Requesting a dark mode option,product,high
+T1558,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1559,"Following up, I need to add a team member to my account",account,medium
+T1560,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1561,URGENT: I need to add a team member to my account,account,high
+T1562,"No rush, but The app crashes every time I open reports",technical,low
+T1563,"Following up, Please explain this extra charge on my bill",billing,medium
+T1564,URGENT: Requesting a dark mode option,product,high
+T1565,This is blocking our work. My account got locked after failed attempts,account,high
+T1566,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T1567,URGENT: I was charged twice for the same invoice,billing,high
+T1568,"No rush, but Please explain this extra charge on my bill",billing,low
+T1569,Please escalate immediately. I was charged twice for the same invoice,billing,high
+T1570,"Hi team, Can this integrate with our CRM tool",product,medium
+T1571,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1572,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1573,"Hi team, Getting an error when uploading a file",technical,medium
+T1574,"Following up, Does the plan include custom reports",product,medium
+T1575,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1576,Please explain this extra charge on my bill,billing,medium
+T1577,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1578,"Following up, Getting an error when uploading a file",technical,medium
+T1579,URGENT: What is the storage limit on my plan,product,high
+T1580,"Hi team, Data sync stopped working since yesterday",technical,medium
+T1581,"No rush, but Requesting a dark mode option",product,low
+T1582,"Hi team, The dashboard has been loading forever",technical,medium
+T1583,"Following up, I was charged twice for the same invoice",billing,medium
+T1584,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T1585,URGENT: Refund for my last order has not arrived,billing,high
+T1586,This is blocking our work. What is the storage limit on my plan,product,high
+T1587,URGENT: I was charged twice for the same invoice,billing,high
+T1588,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1589,Please escalate immediately. What is the storage limit on my plan,product,high
+T1590,"Following up, Please change the email on my profile",account,medium
+T1591,"Following up, I need to add a team member to my account",account,medium
+T1592,Please escalate immediately. Requesting a dark mode option,product,high
+T1593,This is blocking our work. Please change the email on my profile,account,high
+T1594,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1595,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T1596,URGENT: Please change the email on my profile,account,high
+T1597,Getting an error when uploading a file,technical,medium
+T1598,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1599,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1600,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1601,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1602,"No rush, but I was charged twice for the same invoice",billing,low
+T1603,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1604,Please escalate immediately. Getting an error when uploading a file,technical,high
+T1605,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T1606,Please escalate immediately. I need to add a team member to my account,account,high
+T1607,URGENT: Requesting a dark mode option,product,high
+T1608,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1609,Please escalate immediately. I need to add a team member to my account,account,high
+T1610,URGENT: Getting an error when uploading a file,technical,high
+T1611,Please escalate immediately. The dashboard has been loading forever,technical,high
+T1612,"Following up, I cannot log in, password reset email never arrives",account,medium
+T1613,"Following up, My account got locked after failed attempts",account,medium
+T1614,The app crashes every time I open reports,technical,medium
+T1615,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1616,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1617,"No rush, but I was charged twice for the same invoice",billing,low
+T1618,What is the storage limit on my plan,product,medium
+T1619,"No rush, but Refund for my last order has not arrived",billing,low
+T1620,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1621,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1622,This is blocking our work. I was charged twice for the same invoice,billing,high
+T1623,"No rush, but Data sync stopped working since yesterday",technical,low
+T1624,"Hi team, Refund for my last order has not arrived",billing,medium
+T1625,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1626,"No rush, but The dashboard has been loading forever",technical,low
+T1627,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1628,Please explain this extra charge on my bill,billing,medium
+T1629,Please escalate immediately. Please change the email on my profile,account,high
+T1630,"Hi team, What is the storage limit on my plan",product,medium
+T1631,"Hi team, Requesting a dark mode option",product,medium
+T1632,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1633,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1634,"No rush, but Requesting a dark mode option",product,low
+T1635,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T1636,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1637,"URGENT: I cannot log in, password reset email never arrives",account,high
+T1638,"Following up, Data sync stopped working since yesterday",technical,medium
+T1639,URGENT: My subscription payment failed but money was deducted,billing,high
+T1640,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T1641,"Following up, Please explain this extra charge on my bill",billing,medium
+T1642,"No rush, but Refund for my last order has not arrived",billing,low
+T1643,URGENT: What is the storage limit on my plan,product,high
+T1644,"Following up, My account got locked after failed attempts",account,medium
+T1645,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1646,"Following up, Does the plan include custom reports",product,medium
+T1647,"Hi team, I need to add a team member to my account",account,medium
+T1648,"Hi team, Getting an error when uploading a file",technical,medium
+T1649,This is blocking our work. Please change the email on my profile,account,high
+T1650,"Following up, What is the storage limit on my plan",product,medium
+T1651,"No rush, but What is the storage limit on my plan",product,low
+T1652,"No rush, but I need to add a team member to my account",account,low
+T1653,This is blocking our work. Please change the email on my profile,account,high
+T1654,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1655,"Following up, I need to add a team member to my account",account,medium
+T1656,Please escalate immediately. My account got locked after failed attempts,account,high
+T1657,"No rush, but Data sync stopped working since yesterday",technical,low
+T1658,"Following up, The app crashes every time I open reports",technical,medium
+T1659,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T1660,This is blocking our work. My account got locked after failed attempts,account,high
+T1661,"Hi team, Requesting a dark mode option",product,medium
+T1662,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1663,I was charged twice for the same invoice,billing,medium
+T1664,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1665,"No rush, but Data sync stopped working since yesterday",technical,low
+T1666,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T1667,"Hi team, Refund for my last order has not arrived",billing,medium
+T1668,"Following up, Requesting a dark mode option",product,medium
+T1669,"Hi team, Data sync stopped working since yesterday",technical,medium
+T1670,"Following up, I was charged twice for the same invoice",billing,medium
+T1671,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1672,"Following up, My account got locked after failed attempts",account,medium
+T1673,"Following up, Does the plan include custom reports",product,medium
+T1674,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1675,"Hi team, I was charged twice for the same invoice",billing,medium
+T1676,I was charged twice for the same invoice,billing,medium
+T1677,"No rush, but Getting an error when uploading a file",technical,low
+T1678,Data sync stopped working since yesterday,technical,medium
+T1679,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1680,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1681,"No rush, but Please explain this extra charge on my bill",billing,low
+T1682,"Hi team, Can this integrate with our CRM tool",product,medium
+T1683,The app crashes every time I open reports,technical,medium
+T1684,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1685,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1686,"Whenever you get a chance, Please change the email on my profile",account,low
+T1687,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1688,"Following up, My account got locked after failed attempts",account,medium
+T1689,"No rush, but My account got locked after failed attempts",account,low
+T1690,URGENT: Please change the email on my profile,account,high
+T1691,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1692,Can this integrate with our CRM tool,product,medium
+T1693,"Hi team, Requesting a dark mode option",product,medium
+T1694,"No rush, but Data sync stopped working since yesterday",technical,low
+T1695,URGENT: Please change the email on my profile,account,high
+T1696,"No rush, but What is the storage limit on my plan",product,low
+T1697,"Hi team, Refund for my last order has not arrived",billing,medium
+T1698,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1699,Requesting a dark mode option,product,medium
+T1700,URGENT: Does the plan include custom reports,product,high
+T1701,"Hi team, The dashboard has been loading forever",technical,medium
+T1702,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1703,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1704,My subscription payment failed but money was deducted,billing,medium
+T1705,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1706,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1707,This is blocking our work. Please change the email on my profile,account,high
+T1708,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1709,Please escalate immediately. The dashboard has been loading forever,technical,high
+T1710,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1711,URGENT: The dashboard has been loading forever,technical,high
+T1712,"No rush, but Please change the email on my profile",account,low
+T1713,Please change the email on my profile,account,medium
+T1714,This is blocking our work. I was charged twice for the same invoice,billing,high
+T1715,"No rush, but My account got locked after failed attempts",account,low
+T1716,Please escalate immediately. The dashboard has been loading forever,technical,high
+T1717,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1718,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1719,"Hi team, Does the plan include custom reports",product,medium
+T1720,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1721,"Following up, Does the plan include custom reports",product,medium
+T1722,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1723,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1724,This is blocking our work. What is the storage limit on my plan,product,high
+T1725,"Following up, My account got locked after failed attempts",account,medium
+T1726,Does the plan include custom reports,product,medium
+T1727,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T1728,URGENT: Please explain this extra charge on my bill,billing,high
+T1729,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1730,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1731,Please escalate immediately. Please change the email on my profile,account,high
+T1732,This is blocking our work. My account got locked after failed attempts,account,high
+T1733,My subscription payment failed but money was deducted,billing,medium
+T1734,The app crashes every time I open reports,technical,medium
+T1735,URGENT: Please explain this extra charge on my bill,billing,high
+T1736,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T1737,URGENT: What is the storage limit on my plan,product,high
+T1738,Refund for my last order has not arrived,billing,medium
+T1739,URGENT: Requesting a dark mode option,product,high
+T1740,"No rush, but I was charged twice for the same invoice",billing,low
+T1741,"Following up, My account got locked after failed attempts",account,medium
+T1742,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1743,"No rush, but Refund for my last order has not arrived",billing,low
+T1744,Can this integrate with our CRM tool,product,medium
+T1745,Data sync stopped working since yesterday,technical,medium
+T1746,URGENT: Getting an error when uploading a file,technical,high
+T1747,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1748,"Hi team, Can this integrate with our CRM tool",product,medium
+T1749,"No rush, but My account got locked after failed attempts",account,low
+T1750,"No rush, but Please change the email on my profile",account,low
+T1751,"No rush, but Data sync stopped working since yesterday",technical,low
+T1752,"No rush, but My account got locked after failed attempts",account,low
+T1753,"Hi team, Can this integrate with our CRM tool",product,medium
+T1754,"No rush, but Does the plan include custom reports",product,low
+T1755,"Hi team, I need to add a team member to my account",account,medium
+T1756,Can this integrate with our CRM tool,product,medium
+T1757,URGENT: Does the plan include custom reports,product,high
+T1758,"Hi team, I was charged twice for the same invoice",billing,medium
+T1759,My subscription payment failed but money was deducted,billing,medium
+T1760,Requesting a dark mode option,product,medium
+T1761,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1762,"Hi team, Refund for my last order has not arrived",billing,medium
+T1763,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1764,Please explain this extra charge on my bill,billing,medium
+T1765,URGENT: The app crashes every time I open reports,technical,high
+T1766,This is blocking our work. Does the plan include custom reports,product,high
+T1767,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1768,"No rush, but I was charged twice for the same invoice",billing,low
+T1769,"Following up, The dashboard has been loading forever",technical,medium
+T1770,"Hi team, The dashboard has been loading forever",technical,medium
+T1771,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1772,"No rush, but Please change the email on my profile",account,low
+T1773,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1774,Refund for my last order has not arrived,billing,medium
+T1775,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1776,Please escalate immediately. I was charged twice for the same invoice,billing,high
+T1777,URGENT: I was charged twice for the same invoice,billing,high
+T1778,"Following up, Can this integrate with our CRM tool",product,medium
+T1779,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1780,"Hi team, Data sync stopped working since yesterday",technical,medium
+T1781,"Hi team, Please change the email on my profile",account,medium
+T1782,"No rush, but Refund for my last order has not arrived",billing,low
+T1783,"No rush, but Data sync stopped working since yesterday",technical,low
+T1784,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1785,Please escalate immediately. I need to add a team member to my account,account,high
+T1786,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T1787,"No rush, but I need to add a team member to my account",account,low
+T1788,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1789,URGENT: Data sync stopped working since yesterday,technical,high
+T1790,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1791,"Hi team, Please explain this extra charge on my bill",billing,medium
+T1792,URGENT: My account got locked after failed attempts,account,high
+T1793,"Hi team, Can this integrate with our CRM tool",product,medium
+T1794,URGENT: My account got locked after failed attempts,account,high
+T1795,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1796,"No rush, but Refund for my last order has not arrived",billing,low
+T1797,Please escalate immediately. Does the plan include custom reports,product,high
+T1798,"No rush, but Can this integrate with our CRM tool",product,low
+T1799,"Following up, I need to add a team member to my account",account,medium
+T1800,"Following up, Please change the email on my profile",account,medium
+T1801,URGENT: Getting an error when uploading a file,technical,high
+T1802,URGENT: Refund for my last order has not arrived,billing,high
+T1803,"Following up, Requesting a dark mode option",product,medium
+T1804,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1805,"Following up, What is the storage limit on my plan",product,medium
+T1806,URGENT: My subscription payment failed but money was deducted,billing,high
+T1807,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1808,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1809,"No rush, but What is the storage limit on my plan",product,low
+T1810,URGENT: I need to add a team member to my account,account,high
+T1811,"No rush, but Does the plan include custom reports",product,low
+T1812,URGENT: Does the plan include custom reports,product,high
+T1813,URGENT: Refund for my last order has not arrived,billing,high
+T1814,"Following up, The app crashes every time I open reports",technical,medium
+T1815,"URGENT: I cannot log in, password reset email never arrives",account,high
+T1816,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1817,"Hi team, I was charged twice for the same invoice",billing,medium
+T1818,URGENT: Requesting a dark mode option,product,high
+T1819,"Hi team, Requesting a dark mode option",product,medium
+T1820,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1821,"Following up, Data sync stopped working since yesterday",technical,medium
+T1822,Please escalate immediately. Getting an error when uploading a file,technical,high
+T1823,"Following up, I need to add a team member to my account",account,medium
+T1824,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1825,"Hi team, Getting an error when uploading a file",technical,medium
+T1826,My subscription payment failed but money was deducted,billing,medium
+T1827,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1828,"Following up, My account got locked after failed attempts",account,medium
+T1829,Refund for my last order has not arrived,billing,medium
+T1830,"Hi team, Please explain this extra charge on my bill",billing,medium
+T1831,"No rush, but My account got locked after failed attempts",account,low
+T1832,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T1833,"No rush, but My account got locked after failed attempts",account,low
+T1834,"Hi team, Can this integrate with our CRM tool",product,medium
+T1835,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1836,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1837,The dashboard has been loading forever,technical,medium
+T1838,"Hi team, The app crashes every time I open reports",technical,medium
+T1839,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T1840,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1841,"No rush, but My account got locked after failed attempts",account,low
+T1842,"No rush, but Please change the email on my profile",account,low
+T1843,URGENT: Refund for my last order has not arrived,billing,high
+T1844,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1845,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1846,"Following up, My account got locked after failed attempts",account,medium
+T1847,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T1848,Please escalate immediately. Please change the email on my profile,account,high
+T1849,"No rush, but Data sync stopped working since yesterday",technical,low
+T1850,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1851,"No rush, but Data sync stopped working since yesterday",technical,low
+T1852,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T1853,"No rush, but Data sync stopped working since yesterday",technical,low
+T1854,The app crashes every time I open reports,technical,medium
+T1855,"Following up, Getting an error when uploading a file",technical,medium
+T1856,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T1857,"Hi team, Refund for my last order has not arrived",billing,medium
+T1858,"Following up, I was charged twice for the same invoice",billing,medium
+T1859,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1860,This is blocking our work. Requesting a dark mode option,product,high
+T1861,Requesting a dark mode option,product,medium
+T1862,Refund for my last order has not arrived,billing,medium
+T1863,"Hi team, The app crashes every time I open reports",technical,medium
+T1864,This is blocking our work. Please change the email on my profile,account,high
+T1865,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1866,Please escalate immediately. Does the plan include custom reports,product,high
+T1867,Please explain this extra charge on my bill,billing,medium
+T1868,Refund for my last order has not arrived,billing,medium
+T1869,URGENT: Does the plan include custom reports,product,high
+T1870,URGENT: I need to add a team member to my account,account,high
+T1871,"Whenever you get a chance, Please change the email on my profile",account,low
+T1872,URGENT: Data sync stopped working since yesterday,technical,high
+T1873,URGENT: What is the storage limit on my plan,product,high
+T1874,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T1875,URGENT: Does the plan include custom reports,product,high
+T1876,Please escalate immediately. The dashboard has been loading forever,technical,high
+T1877,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T1878,"Following up, What is the storage limit on my plan",product,medium
+T1879,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1880,"Following up, My account got locked after failed attempts",account,medium
+T1881,This is blocking our work. Requesting a dark mode option,product,high
+T1882,"Hi team, What is the storage limit on my plan",product,medium
+T1883,Please escalate immediately. I was charged twice for the same invoice,billing,high
+T1884,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T1885,"No rush, but Data sync stopped working since yesterday",technical,low
+T1886,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T1887,"Hi team, Requesting a dark mode option",product,medium
+T1888,"No rush, but I was charged twice for the same invoice",billing,low
+T1889,URGENT: Can this integrate with our CRM tool,product,high
+T1890,URGENT: Data sync stopped working since yesterday,technical,high
+T1891,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1892,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1893,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T1894,I need to add a team member to my account,account,medium
+T1895,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T1896,URGENT: Does the plan include custom reports,product,high
+T1897,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1898,"Following up, I need to add a team member to my account",account,medium
+T1899,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1900,"Following up, Getting an error when uploading a file",technical,medium
+T1901,This is blocking our work. What is the storage limit on my plan,product,high
+T1902,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1903,"Hi team, Please change the email on my profile",account,medium
+T1904,"Following up, I need to add a team member to my account",account,medium
+T1905,URGENT: My subscription payment failed but money was deducted,billing,high
+T1906,"Following up, Requesting a dark mode option",product,medium
+T1907,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1908,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T1909,"No rush, but I was charged twice for the same invoice",billing,low
+T1910,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1911,URGENT: Refund for my last order has not arrived,billing,high
+T1912,URGENT: Please explain this extra charge on my bill,billing,high
+T1913,Refund for my last order has not arrived,billing,medium
+T1914,"Following up, I need to add a team member to my account",account,medium
+T1915,"No rush, but Refund for my last order has not arrived",billing,low
+T1916,I need to add a team member to my account,account,medium
+T1917,The dashboard has been loading forever,technical,medium
+T1918,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1919,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T1920,"No rush, but Getting an error when uploading a file",technical,low
+T1921,"No rush, but The dashboard has been loading forever",technical,low
+T1922,"No rush, but Does the plan include custom reports",product,low
+T1923,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T1924,This is blocking our work. My subscription payment failed but money was deducted,billing,high
+T1925,"Following up, Please change the email on my profile",account,medium
+T1926,"Hi team, Requesting a dark mode option",product,medium
+T1927,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T1928,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1929,"No rush, but I need to add a team member to my account",account,low
+T1930,"Following up, My subscription payment failed but money was deducted",billing,medium
+T1931,Please change the email on my profile,account,medium
+T1932,Please escalate immediately. Getting an error when uploading a file,technical,high
+T1933,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T1934,"No rush, but Data sync stopped working since yesterday",technical,low
+T1935,"Following up, I need to add a team member to my account",account,medium
+T1936,"No rush, but Can this integrate with our CRM tool",product,low
+T1937,"No rush, but I need to add a team member to my account",account,low
+T1938,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T1939,"Hi team, Data sync stopped working since yesterday",technical,medium
+T1940,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T1941,"No rush, but My account got locked after failed attempts",account,low
+T1942,Please escalate immediately. Please change the email on my profile,account,high
+T1943,"Following up, What is the storage limit on my plan",product,medium
+T1944,"Hi team, I need to add a team member to my account",account,medium
+T1945,"No rush, but Please explain this extra charge on my bill",billing,low
+T1946,"No rush, but Data sync stopped working since yesterday",technical,low
+T1947,"Hi team, My account got locked after failed attempts",account,medium
+T1948,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T1949,This is blocking our work. Can this integrate with our CRM tool,product,high
+T1950,"Following up, Refund for my last order has not arrived",billing,medium
+T1951,"No rush, but I cannot log in, password reset email never arrives",account,low
+T1952,"Hi team, Can this integrate with our CRM tool",product,medium
+T1953,"Hi team, Getting an error when uploading a file",technical,medium
+T1954,"Whenever you get a chance, Requesting a dark mode option",product,low
+T1955,"Following up, Does the plan include custom reports",product,medium
+T1956,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1957,Refund for my last order has not arrived,billing,medium
+T1958,"No rush, but Refund for my last order has not arrived",billing,low
+T1959,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1960,This is blocking our work. The dashboard has been loading forever,technical,high
+T1961,URGENT: The dashboard has been loading forever,technical,high
+T1962,Please change the email on my profile,account,medium
+T1963,"No rush, but What is the storage limit on my plan",product,low
+T1964,"Hi team, Can this integrate with our CRM tool",product,medium
+T1965,URGENT: Can this integrate with our CRM tool,product,high
+T1966,Please escalate immediately. The app crashes every time I open reports,technical,high
+T1967,This is blocking our work. The app crashes every time I open reports,technical,high
+T1968,"Whenever you get a chance, Does the plan include custom reports",product,low
+T1969,"No rush, but I was charged twice for the same invoice",billing,low
+T1970,"No rush, but Please explain this extra charge on my bill",billing,low
+T1971,"Hi team, What is the storage limit on my plan",product,medium
+T1972,"No rush, but Can this integrate with our CRM tool",product,low
+T1973,"Following up, I was charged twice for the same invoice",billing,medium
+T1974,"No rush, but I need to add a team member to my account",account,low
+T1975,"No rush, but My subscription payment failed but money was deducted",billing,low
+T1976,This is blocking our work. Refund for my last order has not arrived,billing,high
+T1977,Getting an error when uploading a file,technical,medium
+T1978,"Whenever you get a chance, Please change the email on my profile",account,low
+T1979,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T1980,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T1981,URGENT: The app crashes every time I open reports,technical,high
+T1982,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T1983,"No rush, but I was charged twice for the same invoice",billing,low
+T1984,"No rush, but I need to add a team member to my account",account,low
+T1985,"Following up, I cannot log in, password reset email never arrives",account,medium
+T1986,URGENT: My subscription payment failed but money was deducted,billing,high
+T1987,"Whenever you get a chance, I need to add a team member to my account",account,low
+T1988,URGENT: I was charged twice for the same invoice,billing,high
+T1989,"No rush, but The dashboard has been loading forever",technical,low
+T1990,Please change the email on my profile,account,medium
+T1991,"Following up, Refund for my last order has not arrived",billing,medium
+T1992,"Following up, Please explain this extra charge on my bill",billing,medium
+T1993,I need to add a team member to my account,account,medium
+T1994,"No rush, but Does the plan include custom reports",product,low
+T1995,"No rush, but Getting an error when uploading a file",technical,low
+T1996,Please explain this extra charge on my bill,billing,medium
+T1997,Please escalate immediately. Requesting a dark mode option,product,high
+T1998,"No rush, but My account got locked after failed attempts",account,low
+T1999,"Hi team, Requesting a dark mode option",product,medium
+T2000,URGENT: What is the storage limit on my plan,product,high
+T2001,Please escalate immediately. My account got locked after failed attempts,account,high
+T2002,"No rush, but I need to add a team member to my account",account,low
+T2003,"Following up, Data sync stopped working since yesterday",technical,medium
+T2004,"No rush, but The app crashes every time I open reports",technical,low
+T2005,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T2006,This is blocking our work. The dashboard has been loading forever,technical,high
+T2007,"Following up, The app crashes every time I open reports",technical,medium
+T2008,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T2009,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T2010,This is blocking our work. Requesting a dark mode option,product,high
+T2011,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T2012,"Following up, I was charged twice for the same invoice",billing,medium
+T2013,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T2014,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T2015,URGENT: I need to add a team member to my account,account,high
+T2016,"Whenever you get a chance, Please change the email on my profile",account,low
+T2017,URGENT: Can this integrate with our CRM tool,product,high
+T2018,"Following up, My subscription payment failed but money was deducted",billing,medium
+T2019,"No rush, but I cannot log in, password reset email never arrives",account,low
+T2020,"Hi team, Data sync stopped working since yesterday",technical,medium
+T2021,Refund for my last order has not arrived,billing,medium
+T2022,This is blocking our work. Getting an error when uploading a file,technical,high
+T2023,Please escalate immediately. What is the storage limit on my plan,product,high
+T2024,"Hi team, I was charged twice for the same invoice",billing,medium
+T2025,Can this integrate with our CRM tool,product,medium
+T2026,Please escalate immediately. Does the plan include custom reports,product,high
+T2027,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T2028,"No rush, but The app crashes every time I open reports",technical,low
+T2029,"Whenever you get a chance, Requesting a dark mode option",product,low
+T2030,"No rush, but What is the storage limit on my plan",product,low
+T2031,"Following up, Requesting a dark mode option",product,medium
+T2032,This is blocking our work. The dashboard has been loading forever,technical,high
+T2033,"No rush, but My account got locked after failed attempts",account,low
+T2034,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T2035,"No rush, but The dashboard has been loading forever",technical,low
+T2036,Please explain this extra charge on my bill,billing,medium
+T2037,"Whenever you get a chance, Requesting a dark mode option",product,low
+T2038,"No rush, but I was charged twice for the same invoice",billing,low
+T2039,URGENT: Does the plan include custom reports,product,high
+T2040,"Hi team, The dashboard has been loading forever",technical,medium
+T2041,URGENT: Please change the email on my profile,account,high
+T2042,"No rush, but The dashboard has been loading forever",technical,low
+T2043,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T2044,Please escalate immediately. What is the storage limit on my plan,product,high
+T2045,"Following up, Please explain this extra charge on my bill",billing,medium
+T2046,"No rush, but I cannot log in, password reset email never arrives",account,low
+T2047,Please escalate immediately. I need to add a team member to my account,account,high
+T2048,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T2049,"Following up, Getting an error when uploading a file",technical,medium
+T2050,URGENT: I was charged twice for the same invoice,billing,high
+T2051,This is blocking our work. What is the storage limit on my plan,product,high
+T2052,URGENT: Please change the email on my profile,account,high
+T2053,"Following up, Refund for my last order has not arrived",billing,medium
+T2054,This is blocking our work. I was charged twice for the same invoice,billing,high
+T2055,Please change the email on my profile,account,medium
+T2056,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2057,"No rush, but Getting an error when uploading a file",technical,low
+T2058,"Whenever you get a chance, Does the plan include custom reports",product,low
+T2059,URGENT: Please change the email on my profile,account,high
+T2060,"Following up, My account got locked after failed attempts",account,medium
+T2061,"No rush, but Does the plan include custom reports",product,low
+T2062,"Hi team, My account got locked after failed attempts",account,medium
+T2063,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2064,"Following up, My subscription payment failed but money was deducted",billing,medium
+T2065,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2066,This is blocking our work. Can this integrate with our CRM tool,product,high
+T2067,"No rush, but I cannot log in, password reset email never arrives",account,low
+T2068,"No rush, but The app crashes every time I open reports",technical,low
+T2069,"No rush, but Data sync stopped working since yesterday",technical,low
+T2070,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T2071,"No rush, but I was charged twice for the same invoice",billing,low
+T2072,"Whenever you get a chance, Does the plan include custom reports",product,low
+T2073,URGENT: Refund for my last order has not arrived,billing,high
+T2074,"No rush, but My account got locked after failed attempts",account,low
+T2075,"Following up, I need to add a team member to my account",account,medium
+T2076,"Following up, Does the plan include custom reports",product,medium
+T2077,"No rush, but Does the plan include custom reports",product,low
+T2078,"No rush, but I was charged twice for the same invoice",billing,low
+T2079,"No rush, but Please change the email on my profile",account,low
+T2080,"No rush, but Please change the email on my profile",account,low
+T2081,"Following up, Does the plan include custom reports",product,medium
+T2082,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T2083,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T2084,The dashboard has been loading forever,technical,medium
+T2085,"No rush, but I was charged twice for the same invoice",billing,low
+T2086,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T2087,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T2088,Getting an error when uploading a file,technical,medium
+T2089,URGENT: The dashboard has been loading forever,technical,high
+T2090,URGENT: The app crashes every time I open reports,technical,high
+T2091,"No rush, but What is the storage limit on my plan",product,low
+T2092,"Hi team, Refund for my last order has not arrived",billing,medium
+T2093,"Following up, Can this integrate with our CRM tool",product,medium
+T2094,This is blocking our work. The app crashes every time I open reports,technical,high
+T2095,"Following up, Data sync stopped working since yesterday",technical,medium
+T2096,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T2097,"Following up, My account got locked after failed attempts",account,medium
+T2098,"Hi team, Refund for my last order has not arrived",billing,medium
+T2099,"Following up, Can this integrate with our CRM tool",product,medium
+T2100,"Following up, I need to add a team member to my account",account,medium
+T2101,"Following up, I cannot log in, password reset email never arrives",account,medium
+T2102,"No rush, but The dashboard has been loading forever",technical,low
+T2103,"No rush, but The dashboard has been loading forever",technical,low
+T2104,"No rush, but I was charged twice for the same invoice",billing,low
+T2105,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2106,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2107,"Following up, Getting an error when uploading a file",technical,medium
+T2108,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T2109,Does the plan include custom reports,product,medium
+T2110,"No rush, but Getting an error when uploading a file",technical,low
+T2111,URGENT: Can this integrate with our CRM tool,product,high
+T2112,"Hi team, Can this integrate with our CRM tool",product,medium
+T2113,URGENT: What is the storage limit on my plan,product,high
+T2114,URGENT: My account got locked after failed attempts,account,high
+T2115,"Following up, I need to add a team member to my account",account,medium
+T2116,Please escalate immediately. My subscription payment failed but money was deducted,billing,high
+T2117,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T2118,Data sync stopped working since yesterday,technical,medium
+T2119,"No rush, but Please change the email on my profile",account,low
+T2120,Please escalate immediately. Requesting a dark mode option,product,high
+T2121,"Following up, I need to add a team member to my account",account,medium
+T2122,"No rush, but Please explain this extra charge on my bill",billing,low
+T2123,URGENT: The dashboard has been loading forever,technical,high
+T2124,URGENT: Getting an error when uploading a file,technical,high
+T2125,"No rush, but My account got locked after failed attempts",account,low
+T2126,Does the plan include custom reports,product,medium
+T2127,"Whenever you get a chance, Requesting a dark mode option",product,low
+T2128,"No rush, but Data sync stopped working since yesterday",technical,low
+T2129,URGENT: Refund for my last order has not arrived,billing,high
+T2130,Please escalate immediately. The app crashes every time I open reports,technical,high
+T2131,URGENT: The dashboard has been loading forever,technical,high
+T2132,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T2133,URGENT: I need to add a team member to my account,account,high
+T2134,"Hi team, Can this integrate with our CRM tool",product,medium
+T2135,"No rush, but Can this integrate with our CRM tool",product,low
+T2136,Please escalate immediately. Please change the email on my profile,account,high
+T2137,"No rush, but Can this integrate with our CRM tool",product,low
+T2138,"Hi team, Does the plan include custom reports",product,medium
+T2139,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T2140,"No rush, but Getting an error when uploading a file",technical,low
+T2141,"No rush, but Does the plan include custom reports",product,low
+T2142,Refund for my last order has not arrived,billing,medium
+T2143,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2144,Please escalate immediately. I need to add a team member to my account,account,high
+T2145,"Following up, The dashboard has been loading forever",technical,medium
+T2146,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T2147,URGENT: What is the storage limit on my plan,product,high
+T2148,"Hi team, Does the plan include custom reports",product,medium
+T2149,"No rush, but I was charged twice for the same invoice",billing,low
+T2150,"No rush, but What is the storage limit on my plan",product,low
+T2151,"Hi team, Can this integrate with our CRM tool",product,medium
+T2152,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T2153,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T2154,This is blocking our work. Requesting a dark mode option,product,high
+T2155,Data sync stopped working since yesterday,technical,medium
+T2156,Please change the email on my profile,account,medium
+T2157,"No rush, but Does the plan include custom reports",product,low
+T2158,Getting an error when uploading a file,technical,medium
+T2159,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T2160,"No rush, but My account got locked after failed attempts",account,low
+T2161,"No rush, but Does the plan include custom reports",product,low
+T2162,Data sync stopped working since yesterday,technical,medium
+T2163,This is blocking our work. Refund for my last order has not arrived,billing,high
+T2164,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T2165,What is the storage limit on my plan,product,medium
+T2166,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T2167,URGENT: What is the storage limit on my plan,product,high
+T2168,Please escalate immediately. Getting an error when uploading a file,technical,high
+T2169,"No rush, but The dashboard has been loading forever",technical,low
+T2170,"No rush, but Getting an error when uploading a file",technical,low
+T2171,"Following up, My subscription payment failed but money was deducted",billing,medium
+T2172,Can this integrate with our CRM tool,product,medium
+T2173,"No rush, but I was charged twice for the same invoice",billing,low
+T2174,"Whenever you get a chance, Please change the email on my profile",account,low
+T2175,Please escalate immediately. My account got locked after failed attempts,account,high
+T2176,Does the plan include custom reports,product,medium
+T2177,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T2178,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T2179,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T2180,Requesting a dark mode option,product,medium
+T2181,"Following up, Data sync stopped working since yesterday",technical,medium
+T2182,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T2183,Refund for my last order has not arrived,billing,medium
+T2184,"Following up, The dashboard has been loading forever",technical,medium
+T2185,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2186,This is blocking our work. Please change the email on my profile,account,high
+T2187,"No rush, but Please explain this extra charge on my bill",billing,low
+T2188,"Hi team, Please change the email on my profile",account,medium
+T2189,"No rush, but Data sync stopped working since yesterday",technical,low
+T2190,Please escalate immediately. Getting an error when uploading a file,technical,high
+T2191,URGENT: My account got locked after failed attempts,account,high
+T2192,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T2193,URGENT: Please explain this extra charge on my bill,billing,high
+T2194,"No rush, but Please explain this extra charge on my bill",billing,low
+T2195,"Whenever you get a chance, I need to add a team member to my account",account,low
+T2196,"Hi team, Please change the email on my profile",account,medium
+T2197,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T2198,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2199,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2200,"Hi team, Data sync stopped working since yesterday",technical,medium
+T2201,"No rush, but I cannot log in, password reset email never arrives",account,low
+T2202,The app crashes every time I open reports,technical,medium
+T2203,Please change the email on my profile,account,medium
+T2204,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T2205,Please change the email on my profile,account,medium
+T2206,This is blocking our work. I need to add a team member to my account,account,high
+T2207,The dashboard has been loading forever,technical,medium
+T2208,"Following up, I need to add a team member to my account",account,medium
+T2209,"No rush, but Getting an error when uploading a file",technical,low
+T2210,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2211,"Hi team, Can this integrate with our CRM tool",product,medium
+T2212,"Hi team, Getting an error when uploading a file",technical,medium
+T2213,"Hi team, What is the storage limit on my plan",product,medium
+T2214,"Following up, Does the plan include custom reports",product,medium
+T2215,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T2216,This is blocking our work. Please explain this extra charge on my bill,billing,high
+T2217,My subscription payment failed but money was deducted,billing,medium
+T2218,"Following up, Please change the email on my profile",account,medium
+T2219,"This is blocking our work. I cannot log in, password reset email never arrives",account,high
+T2220,"No rush, but My account got locked after failed attempts",account,low
+T2221,"Following up, I need to add a team member to my account",account,medium
+T2222,This is blocking our work. What is the storage limit on my plan,product,high
+T2223,"No rush, but Can this integrate with our CRM tool",product,low
+T2224,I need to add a team member to my account,account,medium
+T2225,URGENT: My subscription payment failed but money was deducted,billing,high
+T2226,"Following up, The dashboard has been loading forever",technical,medium
+T2227,"Whenever you get a chance, Please change the email on my profile",account,low
+T2228,Requesting a dark mode option,product,medium
+T2229,URGENT: Does the plan include custom reports,product,high
+T2230,"No rush, but The dashboard has been loading forever",technical,low
+T2231,URGENT: Please explain this extra charge on my bill,billing,high
+T2232,URGENT: Please explain this extra charge on my bill,billing,high
+T2233,This is blocking our work. I was charged twice for the same invoice,billing,high
+T2234,Refund for my last order has not arrived,billing,medium
+T2235,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T2236,Please escalate immediately. The dashboard has been loading forever,technical,high
+T2237,"No rush, but Can this integrate with our CRM tool",product,low
+T2238,URGENT: The dashboard has been loading forever,technical,high
+T2239,"Following up, Please change the email on my profile",account,medium
+T2240,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T2241,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T2242,My account got locked after failed attempts,account,medium
+T2243,"Following up, My subscription payment failed but money was deducted",billing,medium
+T2244,"Hi team, What is the storage limit on my plan",product,medium
+T2245,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T2246,"Following up, I cannot log in, password reset email never arrives",account,medium
+T2247,"Following up, Does the plan include custom reports",product,medium
+T2248,Can this integrate with our CRM tool,product,medium
+T2249,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2250,"Whenever you get a chance, Requesting a dark mode option",product,low
+T2251,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T2252,This is blocking our work. Does the plan include custom reports,product,high
+T2253,"No rush, but What is the storage limit on my plan",product,low
+T2254,"Whenever you get a chance, I need to add a team member to my account",account,low
+T2255,URGENT: Getting an error when uploading a file,technical,high
+T2256,Please escalate immediately. I need to add a team member to my account,account,high
+T2257,Requesting a dark mode option,product,medium
+T2258,"Hi team, Getting an error when uploading a file",technical,medium
+T2259,"No rush, but Refund for my last order has not arrived",billing,low
+T2260,"Following up, Refund for my last order has not arrived",billing,medium
+T2261,"No rush, but Can this integrate with our CRM tool",product,low
+T2262,URGENT: Please explain this extra charge on my bill,billing,high
+T2263,"Following up, The dashboard has been loading forever",technical,medium
+T2264,"Following up, Does the plan include custom reports",product,medium
+T2265,"URGENT: I cannot log in, password reset email never arrives",account,high
+T2266,"Hi team, I need to add a team member to my account",account,medium
+T2267,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T2268,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T2269,"Hi team, Does the plan include custom reports",product,medium
+T2270,The app crashes every time I open reports,technical,medium
+T2271,"Following up, The dashboard has been loading forever",technical,medium
+T2272,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T2273,"Following up, My subscription payment failed but money was deducted",billing,medium
+T2274,"Hi team, Getting an error when uploading a file",technical,medium
+T2275,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T2276,URGENT: Please change the email on my profile,account,high
+T2277,"Hi team, I was charged twice for the same invoice",billing,medium
+T2278,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2279,URGENT: My account got locked after failed attempts,account,high
+T2280,Please escalate immediately. What is the storage limit on my plan,product,high
+T2281,This is blocking our work. Refund for my last order has not arrived,billing,high
+T2282,This is blocking our work. Refund for my last order has not arrived,billing,high
+T2283,"Whenever you get a chance, I need to add a team member to my account",account,low
+T2284,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T2285,"No rush, but Please change the email on my profile",account,low
+T2286,Please explain this extra charge on my bill,billing,medium
+T2287,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T2288,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T2289,Can this integrate with our CRM tool,product,medium
+T2290,"No rush, but Please explain this extra charge on my bill",billing,low
+T2291,Please change the email on my profile,account,medium
+T2292,Please escalate immediately. Requesting a dark mode option,product,high
+T2293,Please escalate immediately. The dashboard has been loading forever,technical,high
+T2294,The app crashes every time I open reports,technical,medium
+T2295,Please escalate immediately. Requesting a dark mode option,product,high
+T2296,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T2297,"Whenever you get a chance, Does the plan include custom reports",product,low
+T2298,"No rush, but I was charged twice for the same invoice",billing,low
+T2299,URGENT: Getting an error when uploading a file,technical,high
+T2300,"Hi team, I was charged twice for the same invoice",billing,medium
+T2301,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2302,This is blocking our work. My account got locked after failed attempts,account,high
+T2303,URGENT: Please explain this extra charge on my bill,billing,high
+T2304,I was charged twice for the same invoice,billing,medium
+T2305,"Whenever you get a chance, Please change the email on my profile",account,low
+T2306,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T2307,"Hi team, Refund for my last order has not arrived",billing,medium
+T2308,Please escalate immediately. Refund for my last order has not arrived,billing,high
+T2309,URGENT: Can this integrate with our CRM tool,product,high
+T2310,"Whenever you get a chance, The app crashes every time I open reports",technical,low
+T2311,"Whenever you get a chance, I need to add a team member to my account",account,low
+T2312,URGENT: Please explain this extra charge on my bill,billing,high
+T2313,"No rush, but I need to add a team member to my account",account,low
+T2314,Please change the email on my profile,account,medium
+T2315,I need to add a team member to my account,account,medium
+T2316,"No rush, but My account got locked after failed attempts",account,low
+T2317,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T2318,"Following up, Does the plan include custom reports",product,medium
+T2319,I was charged twice for the same invoice,billing,medium
+T2320,"Hi team, The dashboard has been loading forever",technical,medium
+T2321,This is blocking our work. The app crashes every time I open reports,technical,high
+T2322,"No rush, but I cannot log in, password reset email never arrives",account,low
+T2323,"Following up, Refund for my last order has not arrived",billing,medium
+T2324,"Following up, Getting an error when uploading a file",technical,medium
+T2325,"Following up, The app crashes every time I open reports",technical,medium
+T2326,"No rush, but Does the plan include custom reports",product,low
+T2327,"Hi team, I need to add a team member to my account",account,medium
+T2328,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T2329,URGENT: What is the storage limit on my plan,product,high
+T2330,"Following up, I cannot log in, password reset email never arrives",account,medium
+T2331,"No rush, but Data sync stopped working since yesterday",technical,low
+T2332,I was charged twice for the same invoice,billing,medium
+T2333,"No rush, but Please change the email on my profile",account,low
+T2334,URGENT: Data sync stopped working since yesterday,technical,high
+T2335,"No rush, but Can this integrate with our CRM tool",product,low
+T2336,"Following up, Can this integrate with our CRM tool",product,medium
+T2337,"Hi team, Data sync stopped working since yesterday",technical,medium
+T2338,"Whenever you get a chance, My subscription payment failed but money was deducted",billing,low
+T2339,Please explain this extra charge on my bill,billing,medium
+T2340,This is blocking our work. Getting an error when uploading a file,technical,high
+T2341,Can this integrate with our CRM tool,product,medium
+T2342,URGENT: The dashboard has been loading forever,technical,high
+T2343,Does the plan include custom reports,product,medium
+T2344,"Whenever you get a chance, Please explain this extra charge on my bill",billing,low
+T2345,"Hi team, Please change the email on my profile",account,medium
+T2346,"No rush, but Please change the email on my profile",account,low
+T2347,Data sync stopped working since yesterday,technical,medium
+T2348,"Hi team, Getting an error when uploading a file",technical,medium
+T2349,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T2350,Please escalate immediately. I was charged twice for the same invoice,billing,high
+T2351,"No rush, but The dashboard has been loading forever",technical,low
+T2352,I was charged twice for the same invoice,billing,medium
+T2353,"Following up, I cannot log in, password reset email never arrives",account,medium
+T2354,Please escalate immediately. My account got locked after failed attempts,account,high
+T2355,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T2356,"No rush, but Data sync stopped working since yesterday",technical,low
+T2357,"Hi team, I was charged twice for the same invoice",billing,medium
+T2358,Please escalate immediately. Please change the email on my profile,account,high
+T2359,I was charged twice for the same invoice,billing,medium
+T2360,My subscription payment failed but money was deducted,billing,medium
+T2361,URGENT: Please change the email on my profile,account,high
+T2362,This is blocking our work. Does the plan include custom reports,product,high
+T2363,"I cannot log in, password reset email never arrives",account,medium
+T2364,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T2365,URGENT: My subscription payment failed but money was deducted,billing,high
+T2366,"Following up, My account got locked after failed attempts",account,medium
+T2367,My subscription payment failed but money was deducted,billing,medium
+T2368,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T2369,Please escalate immediately. Please change the email on my profile,account,high
+T2370,Please escalate immediately. What is the storage limit on my plan,product,high
+T2371,This is blocking our work. Data sync stopped working since yesterday,technical,high
+T2372,Please escalate immediately. Data sync stopped working since yesterday,technical,high
+T2373,"Hi team, Getting an error when uploading a file",technical,medium
+T2374,What is the storage limit on my plan,product,medium
+T2375,"No rush, but Can this integrate with our CRM tool",product,low
+T2376,"No rush, but Getting an error when uploading a file",technical,low
+T2377,"No rush, but I need to add a team member to my account",account,low
+T2378,"No rush, but The dashboard has been loading forever",technical,low
+T2379,"No rush, but Refund for my last order has not arrived",billing,low
+T2380,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T2381,"Following up, Please change the email on my profile",account,medium
+T2382,"Whenever you get a chance, Can this integrate with our CRM tool",product,low
+T2383,URGENT: Getting an error when uploading a file,technical,high
+T2384,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2385,Please escalate immediately. The app crashes every time I open reports,technical,high
+T2386,Please escalate immediately. I need to add a team member to my account,account,high
+T2387,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T2388,"Following up, Data sync stopped working since yesterday",technical,medium
+T2389,URGENT: Getting an error when uploading a file,technical,high
+T2390,"Hi team, My subscription payment failed but money was deducted",billing,medium
+T2391,Please escalate immediately. Can this integrate with our CRM tool,product,high
+T2392,URGENT: Data sync stopped working since yesterday,technical,high
+T2393,"Whenever you get a chance, Requesting a dark mode option",product,low
+T2394,"Following up, The app crashes every time I open reports",technical,medium
+T2395,"Whenever you get a chance, Requesting a dark mode option",product,low
+T2396,"No rush, but Please explain this extra charge on my bill",billing,low
+T2397,URGENT: Requesting a dark mode option,product,high
+T2398,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T2399,"Following up, Data sync stopped working since yesterday",technical,medium
+T2400,"Following up, My account got locked after failed attempts",account,medium
+T2401,Does the plan include custom reports,product,medium
+T2402,Data sync stopped working since yesterday,technical,medium
+T2403,"No rush, but Refund for my last order has not arrived",billing,low
+T2404,"Following up, The dashboard has been loading forever",technical,medium
+T2405,URGENT: Requesting a dark mode option,product,high
+T2406,"Hi team, The dashboard has been loading forever",technical,medium
+T2407,"No rush, but I cannot log in, password reset email never arrives",account,low
+T2408,Please escalate immediately. Please explain this extra charge on my bill,billing,high
+T2409,Please escalate immediately. I need to add a team member to my account,account,high
+T2410,Data sync stopped working since yesterday,technical,medium
+T2411,This is blocking our work. Refund for my last order has not arrived,billing,high
+T2412,URGENT: The app crashes every time I open reports,technical,high
+T2413,"Following up, Requesting a dark mode option",product,medium
+T2414,"No rush, but I cannot log in, password reset email never arrives",account,low
+T2415,URGENT: The dashboard has been loading forever,technical,high
+T2416,"Following up, Please explain this extra charge on my bill",billing,medium
+T2417,"Whenever you get a chance, Refund for my last order has not arrived",billing,low
+T2418,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T2419,"Hi team, Does the plan include custom reports",product,medium
+T2420,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T2421,URGENT: I was charged twice for the same invoice,billing,high
+T2422,"URGENT: I cannot log in, password reset email never arrives",account,high
+T2423,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T2424,"Hi team, Refund for my last order has not arrived",billing,medium
+T2425,"No rush, but I need to add a team member to my account",account,low
+T2426,URGENT: Please change the email on my profile,account,high
+T2427,"Following up, I cannot log in, password reset email never arrives",account,medium
+T2428,"No rush, but What is the storage limit on my plan",product,low
+T2429,URGENT: What is the storage limit on my plan,product,high
+T2430,"Whenever you get a chance, My account got locked after failed attempts",account,low
+T2431,"No rush, but The app crashes every time I open reports",technical,low
+T2432,My subscription payment failed but money was deducted,billing,medium
+T2433,"Whenever you get a chance, What is the storage limit on my plan",product,low
+T2434,Please escalate immediately. I need to add a team member to my account,account,high
+T2435,"Hi team, Can this integrate with our CRM tool",product,medium
+T2436,"URGENT: I cannot log in, password reset email never arrives",account,high
+T2437,I was charged twice for the same invoice,billing,medium
+T2438,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T2439,"Following up, Refund for my last order has not arrived",billing,medium
+T2440,"No rush, but My subscription payment failed but money was deducted",billing,low
+T2441,This is blocking our work. Please change the email on my profile,account,high
+T2442,URGENT: Please change the email on my profile,account,high
+T2443,"I cannot log in, password reset email never arrives",account,medium
+T2444,This is blocking our work. The dashboard has been loading forever,technical,high
+T2445,"Hi team, Can this integrate with our CRM tool",product,medium
+T2446,Please escalate immediately. Requesting a dark mode option,product,high
+T2447,"Following up, I cannot log in, password reset email never arrives",account,medium
+T2448,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T2449,"Whenever you get a chance, The dashboard has been loading forever",technical,low
+T2450,This is blocking our work. I was charged twice for the same invoice,billing,high
+T2451,My account got locked after failed attempts,account,medium
+T2452,Please escalate immediately. Does the plan include custom reports,product,high
+T2453,"Whenever you get a chance, I cannot log in, password reset email never arrives",account,low
+T2454,"Hi team, I need to add a team member to my account",account,medium
+T2455,"Following up, The dashboard has been loading forever",technical,medium
+T2456,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T2457,"Hi team, Refund for my last order has not arrived",billing,medium
+T2458,I was charged twice for the same invoice,billing,medium
+T2459,"No rush, but Can this integrate with our CRM tool",product,low
+T2460,Please change the email on my profile,account,medium
+T2461,URGENT: My account got locked after failed attempts,account,high
+T2462,"No rush, but Data sync stopped working since yesterday",technical,low
+T2463,"No rush, but Does the plan include custom reports",product,low
+T2464,"Please escalate immediately. I cannot log in, password reset email never arrives",account,high
+T2465,"Hi team, I cannot log in, password reset email never arrives",account,medium
+T2466,Please escalate immediately. Please change the email on my profile,account,high
+T2467,"Hi team, Getting an error when uploading a file",technical,medium
+T2468,Please change the email on my profile,account,medium
+T2469,"No rush, but What is the storage limit on my plan",product,low
+T2470,This is blocking our work. The app crashes every time I open reports,technical,high
+T2471,"No rush, but Refund for my last order has not arrived",billing,low
+T2472,"Whenever you get a chance, Please change the email on my profile",account,low
+T2473,"Whenever you get a chance, Getting an error when uploading a file",technical,low
+T2474,This is blocking our work. The dashboard has been loading forever,technical,high
+T2475,URGENT: Does the plan include custom reports,product,high
+T2476,"No rush, but Does the plan include custom reports",product,low
+T2477,URGENT: Requesting a dark mode option,product,high
+T2478,Please escalate immediately. Requesting a dark mode option,product,high
+T2479,"Following up, My account got locked after failed attempts",account,medium
+T2480,Refund for my last order has not arrived,billing,medium
+T2481,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T2482,Requesting a dark mode option,product,medium
+T2483,URGENT: Can this integrate with our CRM tool,product,high
+T2484,"Following up, My account got locked after failed attempts",account,medium
+T2485,"Following up, I need to add a team member to my account",account,medium
+T2486,This is blocking our work. I was charged twice for the same invoice,billing,high
+T2487,"Following up, My account got locked after failed attempts",account,medium
+T2488,My account got locked after failed attempts,account,medium
+T2489,I was charged twice for the same invoice,billing,medium
+T2490,"No rush, but Please change the email on my profile",account,low
+T2491,Requesting a dark mode option,product,medium
+T2492,"No rush, but Getting an error when uploading a file",technical,low
+T2493,"Hi team, What is the storage limit on my plan",product,medium
+T2494,"Whenever you get a chance, Data sync stopped working since yesterday",technical,low
+T2495,"No rush, but My account got locked after failed attempts",account,low
+T2496,"Whenever you get a chance, I was charged twice for the same invoice",billing,low
+T2497,Does the plan include custom reports,product,medium
+T2498,This is blocking our work. Requesting a dark mode option,product,high
+T2499,"No rush, but Please explain this extra charge on my bill",billing,low
+T2500,can someone call me back about this,product,low
+T2501,it is not working please help,billing,high
+T2502,"same issue as last time, please check",billing,high
+T2503,"same issue as last time, please check",product,low
+T2504,can someone call me back about this,product,low
+T2505,"nothing works, please fix",technical,high
+T2506,can someone call me back about this,account,low
+T2507,can someone call me back about this,product,low
+T2508,can someone call me back about this,billing,low
+T2509,it is not working please help,product,high
+T2510,can someone call me back about this,billing,medium
+T2511,it is not working please help,billing,low
+T2512,can someone call me back about this,billing,medium
+T2513,it is not working please help,technical,medium
+T2514,"nothing works, please fix",account,low
+T2515,"nothing works, please fix",product,medium
+T2516,"nothing works, please fix",technical,low
+T2517,"same issue as last time, please check",product,high
+T2518,"same issue as last time, please check",product,medium
+T2519,"nothing works, please fix",technical,medium
+T2520,"same issue as last time, please check",technical,high
+T2521,it is not working please help,billing,high
+T2522,"nothing works, please fix",product,high
+T2523,it is not working please help,technical,low
+T2524,"nothing works, please fix",product,low
+T2525,"nothing works, please fix",technical,medium
+T2526,"nothing works, please fix",product,medium
+T2527,can someone call me back about this,technical,high
+T2528,"nothing works, please fix",billing,low
+T2529,"nothing works, please fix",technical,low
+T2530,can someone call me back about this,product,low
+T2531,can someone call me back about this,billing,high
+T2532,"nothing works, please fix",account,high
+T2533,"nothing works, please fix",billing,high
+T2534,can someone call me back about this,product,low
+T2535,it is not working please help,billing,high
+T2536,"nothing works, please fix",billing,low
+T2537,can someone call me back about this,billing,medium
+T2538,it is not working please help,product,medium
+T2539,"nothing works, please fix",account,medium
+T2540,can someone call me back about this,account,medium
+T2541,"same issue as last time, please check",billing,low
+T2542,can someone call me back about this,account,high
+T2543,"nothing works, please fix",technical,low
+T2544,it is not working please help,account,low
+T2545,it is not working please help,account,medium
+T2546,it is not working please help,technical,low
+T2547,it is not working please help,account,medium
+T2548,"same issue as last time, please check",account,medium
+T2549,can someone call me back about this,billing,low
+T2550,it is not working please help,technical,low
+T2551,"same issue as last time, please check",product,medium
+T2552,"same issue as last time, please check",account,low
+T2553,"same issue as last time, please check",product,high
+T2554,it is not working please help,account,high
+T2555,"same issue as last time, please check",technical,medium
+T2556,"nothing works, please fix",product,high
+T2557,"nothing works, please fix",technical,high
+T2558,can someone call me back about this,billing,low
+T2559,can someone call me back about this,billing,high
+T2560,"same issue as last time, please check",product,medium
+T2561,"nothing works, please fix",account,medium
+T2562,"same issue as last time, please check",product,low
+T2563,"nothing works, please fix",product,medium
+T2564,"same issue as last time, please check",product,high
+T2565,can someone call me back about this,product,medium
+T2566,can someone call me back about this,billing,high
+T2567,can someone call me back about this,product,low
+T2568,can someone call me back about this,account,medium
+T2569,can someone call me back about this,billing,medium
+T2570,"nothing works, please fix",product,low
+T2571,"same issue as last time, please check",technical,low
+T2572,can someone call me back about this,technical,medium
+T2573,it is not working please help,billing,high
+T2574,it is not working please help,product,high
+T2575,it is not working please help,product,medium
+T2576,"same issue as last time, please check",account,medium
+T2577,"same issue as last time, please check",billing,high
+T2578,it is not working please help,billing,low
+T2579,"same issue as last time, please check",billing,low
+T2580,it is not working please help,billing,low
+T2581,"same issue as last time, please check",product,low
+T2582,"same issue as last time, please check",billing,low
+T2583,"same issue as last time, please check",account,medium
+T2584,"nothing works, please fix",billing,low
+T2585,"nothing works, please fix",account,medium
+T2586,can someone call me back about this,account,high
+T2587,it is not working please help,account,high
+T2588,"nothing works, please fix",product,medium
+T2589,it is not working please help,account,medium
+T2590,"same issue as last time, please check",product,high
+T2591,"nothing works, please fix",technical,low
+T2592,"nothing works, please fix",technical,low
+T2593,"nothing works, please fix",billing,high
+T2594,"nothing works, please fix",technical,low
+T2595,it is not working please help,product,low
+T2596,can someone call me back about this,billing,high
+T2597,it is not working please help,billing,low
+T2598,can someone call me back about this,product,high
+T2599,"nothing works, please fix",technical,low
+T2600,it is not working please help,billing,low
+T2601,"nothing works, please fix",account,high
+T2602,can someone call me back about this,product,low
+T2603,it is not working please help,product,medium
+T2604,"nothing works, please fix",product,low
+T2605,it is not working please help,technical,high
+T2606,"nothing works, please fix",product,high
+T2607,can someone call me back about this,account,low
+T2608,can someone call me back about this,product,high
+T2609,it is not working please help,account,low
+T2610,can someone call me back about this,billing,medium
+T2611,can someone call me back about this,technical,high
+T2612,it is not working please help,product,low
+T2613,"same issue as last time, please check",account,low
+T2614,"nothing works, please fix",billing,low
+T2615,can someone call me back about this,product,high
+T2616,"nothing works, please fix",technical,high
+T2617,it is not working please help,technical,high
+T2618,"same issue as last time, please check",product,medium
+T2619,it is not working please help,account,medium
+T2620,"nothing works, please fix",billing,high
+T2621,can someone call me back about this,billing,medium
+T2622,it is not working please help,product,high
+T2623,"same issue as last time, please check",product,low
+T2624,"same issue as last time, please check",technical,high
+T2625,it is not working please help,technical,medium
+T2626,it is not working please help,product,low
+T2627,it is not working please help,technical,low
+T2628,"same issue as last time, please check",billing,high
+T2629,it is not working please help,account,high
+T2630,"nothing works, please fix",technical,low
+T2631,it is not working please help,billing,high
+T2632,"nothing works, please fix",technical,high
+T2633,"same issue as last time, please check",product,medium
+T2634,"nothing works, please fix",account,high
+T2635,"same issue as last time, please check",account,high
+T2636,it is not working please help,technical,medium
+T2637,it is not working please help,billing,medium
+T2638,"same issue as last time, please check",product,high
+T2639,can someone call me back about this,technical,medium
+T2640,"same issue as last time, please check",billing,high
+T2641,it is not working please help,product,high
+T2642,it is not working please help,product,high
+T2643,it is not working please help,billing,high
+T2644,it is not working please help,account,medium
+T2645,"nothing works, please fix",technical,high
+T2646,"same issue as last time, please check",account,low
+T2647,"nothing works, please fix",product,high
+T2648,"same issue as last time, please check",billing,low
+T2649,"same issue as last time, please check",product,low
