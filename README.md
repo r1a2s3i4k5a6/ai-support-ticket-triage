@@ -28,8 +28,8 @@ python triage.py "My payment failed and I need this fixed immediately"
 
 | Model | Accuracy | Macro F1 |
 |---|---|---|
-| Category classifier | 95.2% | 0.953 |
-| Urgency classifier | 93.9% | 0.939 |
+| Category classifier | 95.5% | 0.955 |
+| Urgency classifier | 94.8% | 0.949 |
 
 Full writeup: `reports/Ticket_Triage_Project_Report.docx`
 
@@ -40,17 +40,3 @@ programmatically. An earlier version of the generator produced a dataset
 that scored 100% accuracy — investigated and traced to a labelling bug
 (details in the report). The corrected dataset scores in the low-to-mid
 90s, which is the realistic, defensible result reported here.
-
-## Dashboard (Streamlit)
-
-A simple web interface is included (`app.py`), fulfilling the brief's
-"expose through a small API/dashboard" requirement. It lets anyone paste
-in a ticket and see the predicted category, urgency, confidence, and
-review status - no code required.
-
-```bash
-pip install streamlit
-streamlit run app.py
-```
-
-This opens in your browser at localhost:8501.

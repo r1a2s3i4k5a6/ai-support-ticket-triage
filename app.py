@@ -91,7 +91,7 @@ st.caption(
 
 with st.expander("About this project"):
     st.write(
-        "Trained on a 1,650-ticket synthetic dataset. Category accuracy: 95.2%, "
-        "Urgency accuracy: 93.9% on a held-out test set. See the full project "
+        "Trained on a 1,650-ticket synthetic dataset. Category accuracy: 95.5%, "
+        "Urgency accuracy: 94.8% on a held-out test set. See the full project "
         "report for evaluation details and known limitations."
     )
